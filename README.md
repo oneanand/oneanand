@@ -6,7 +6,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=r0cket007&label=Profile%20views&color=2F80ED&style=flat-square" alt="profile views" />
 <a href="https://www.linkedin.com/in/r0cket007/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2F80ED?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="[https://drive.google.com/file/d/1Skee37Mu3z6ry8MNJ4RBhYlBoqodNmsq/view?usp=sharing](https://drive.google.com/file/d/1Q7vLVJDZ0zoXhYqrcr5MtAp9P96vhJlI/view?usp=sharing)"><img src="https://img.shields.io/badge/Resume-View-2F80ED?style=flat-square&logo=googledrive&logoColor=white" /></a>
+<a href="https://drive.google.com/file/d/1Skee37Mu3z6ry8MNJ4RBhYlBoqodNmsq/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View-2F80ED?style=flat-square&logo=googledrive&logoColor=white" /></a>
 
 </div>
 
