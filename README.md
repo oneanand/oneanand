@@ -94,10 +94,6 @@ Highlights: redesigned a Go-based ShortURLs service cutting Bigtable storage by 
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/r0cket007/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/r0cket007"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.instagram.com/r0cket007_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.facebook.com/profile.php?id=100022893410458"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="https://www.stopstalk.com/user/profile/r0cket007"><img src="https://img.shields.io/badge/StopStalk-000000?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-
+<a href="https://www.linkedin.com/in/oneanand/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/oneanand"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
