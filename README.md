@@ -73,8 +73,8 @@ Highlights: redesigned a Go-based ShortURLs service cutting Bigtable storage by 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=r0cket007&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0cket007&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=oneanand&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oneanand&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=r0cket007&theme=tokyonight&hide_border=true" />
 
